@@ -29,8 +29,6 @@ Visual Effect GraphのOutputパートのカラー設定でIntensityを5とか数
 [UnityでのScene Settingの作成の仕方](https://teratail.com/questions/233619)  
 Bloomの設定はSceneSettingが無くなって、Volumeでやるようになったようだ。  
 
-# ライセンス
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).  
-まぁ、ライセンスとか言い出すようなもんか？  
-ってレベルの簡単サンプルだけどw  
-一応、書いときます。
+# License
+[Unlicense](https://unlicense.org/)
+
